@@ -19,7 +19,7 @@ To create a virtual env - [link](https://docs.python.org/3.9/library/venv.html).
 
 #### 4. Install the required packages
 ```
-pip install requirement.txt
+pip install requirements.txt
 ```
 #### 5. Executing program
 
